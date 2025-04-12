@@ -1,7 +1,7 @@
 Hi, I'm Mohammed Thameem<br/>
 
 Student at Worcester Polytechnic Institute (WPI), pursuing an MS in Computer Science<br/>
-Former Full Stack Developer with ~3 years of industry experience<br/>
+Former Full Stack Developer with 3 years of industry experience<br/>
 Winner of the AI FOR TOMORROW Award at SharkHacks Hackathon by Major League Hacking (Boston)<br/>
 Let’s build something impactful together!<br/>
 
